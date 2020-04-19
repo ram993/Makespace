@@ -1,0 +1,5 @@
+File output stream methd takes raw byte infromation from the text file converts it to bytes
+Hi
+My Name is Ram
+How are you?
+I will succeedd in learning autoamtion java

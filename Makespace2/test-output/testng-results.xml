@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-03T06:18:28Z" name="Test suite" finished-at="2020-04-03T06:18:32Z" duration-ms="3649">
+    <groups>
+    </groups>
+    <test started-at="2020-04-03T06:18:28Z" name="Test cases" finished-at="2020-04-03T06:18:32Z" duration-ms="3649">
+      <class name="com.testng.paralleltesting">
+        <test-method signature="opengoogle()[pri:0, instance:com.testng.paralleltesting@631330c]" started-at="2020-04-03T06:18:28Z" name="opengoogle" finished-at="2020-04-03T06:18:32Z" duration-ms="3620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opengoogle -->
+        <test-method signature="openbing()[pri:0, instance:com.testng.paralleltesting@631330c]" started-at="2020-04-03T06:18:28Z" name="openbing" finished-at="2020-04-03T06:18:31Z" duration-ms="2838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbing -->
+      </class> <!-- com.testng.paralleltesting -->
+    </test> <!-- Test cases -->
+  </suite> <!-- Test suite -->
+</testng-results>

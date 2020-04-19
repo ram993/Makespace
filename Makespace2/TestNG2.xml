@@ -1,0 +1,39 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Login suite">
+
+    <test name = "Bothcorrect">
+        <parameter name="Username" value="Admin"></parameter>
+        <parameter name="password" value="admin123"></parameter>
+        <classes>
+            <class name="com.datadriven.Bothcorrect"></class>
+        </classes>
+    </test>
+
+
+    <test name = "Correctpassword">
+        <parameter name="Username" value="dummy"></parameter>
+        <parameter name="password" value="admin123"></parameter>
+        <classes>
+            <class name="com.datadriven.Correctpassword"></class>
+        </classes>
+    </test>
+
+
+    <test name = "CorrectUsername">
+        <parameter name="Username" value="Admin"></parameter>
+        <parameter name="password" value="Jason"></parameter>
+        <classes>
+            <class name="com.datadriven.CorrectUsername"></class>
+        </classes>
+    </test>
+
+    <test name = "Incrrectboth">
+        <parameter name="Username" value="dummy"></parameter>
+        <parameter name="password" value="Jason"></parameter>
+        <classes>
+            <class name="com.datadriven.Incrrectboth"></class>
+        </classes>
+    </test>
+
+
+</suite>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="827d18ad-f35c-476f-bc67-237aa8de63fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WDcvH3d5cwlmDOlmVg8zMsySeQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="makespace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.makespace.makespace" />
+      <module name="Makespace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.makespace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.makespace" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="827d18ad-f35c-476f-bc67-237aa8de63fc" name="Default Changelist" comment="" />
+      <created>1578687834940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578687834940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1978" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578688268334">
+      <screen x="1440" y="0" width="1600" height="832" />
+    </state>
+    <state x="1978" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.877/1440.0.1600.832@1440.0.1600.832" timestamp="1578688268334" />
+    <state x="1757" y="23" key="SettingsEditor" timestamp="1578688586987">
+      <screen x="1440" y="23" width="1600" height="809" />
+    </state>
+    <state x="1757" y="23" key="SettingsEditor/0.23.1440.877/1440.23.1600.809@1440.23.1600.809" timestamp="1578688586987" />
+  </component>
+</project>

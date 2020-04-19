@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Login suite">
+    <test name = "Login cases">
+        <classes>
+            <class name="com.datadriven2.loginCRM"></class>
+        </classes>
+
+    </test>
+
+</suite>
