@@ -10,7 +10,6 @@ import java.util.List;
 public class testleafframes {
     public static void main(String[] args){
 
-        System.setProperty("webdriver.chrome.driver", "/Users/ramsubramaniansenthilnathan/Selenium Server/Browser/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.get("http://leafground.com/pages/frame.html");
 
