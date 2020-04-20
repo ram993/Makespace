@@ -17,10 +17,25 @@ public class dropdown {
         Thread.sleep(3000);
 
         List<WebElement> searchsuggestions = driver.findElements(By.xpath("//ul[@role=\"listbox\"]//following::li"));
-
+        //int position = 0;
         for( WebElement webElement : searchsuggestions){
-            System.out.println(webElement.getText());
+            String text = webElement.getText();
+            System.out.println(text);
+            //position++;
+            /*if (position ==3)
+            {
+                webElement.click();
+                break;
+            }*/
+
+            if (text.contains("cast")){
+                webElement.click();
+                break;
+            }
         }
+
+
+
 
         driver.close();
 
