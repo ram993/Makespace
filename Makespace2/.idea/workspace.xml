@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de819e05-3389-464f-96fa-822437fcc73b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Resultlink/resultlink.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Makespace2/com/dropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Makespace2/com/dropdown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dropdown.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +57,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dropdown">
-    <configuration name="Maximize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Maximize.Maximize" />
-      <module name="Makespace2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Maximize.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.resultlink">
     <configuration name="Robotclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Screenshot.Robotclass" />
       <module name="Makespace2" />
@@ -91,6 +77,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="resultlink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Resultlink.resultlink" />
+      <module name="Makespace2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Resultlink.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,20 +147,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Maximize" />
       <item itemvalue="Application.screenshot" />
       <item itemvalue="Application.Robotclass" />
       <item itemvalue="Application.testleafframes" />
       <item itemvalue="Application.dropdown" />
       <item itemvalue="TestNG.com.testng.testngexample" />
+      <item itemvalue="Application.resultlink" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.resultlink" />
         <item itemvalue="Application.dropdown" />
         <item itemvalue="Application.testleafframes" />
         <item itemvalue="Application.Robotclass" />
         <item itemvalue="Application.screenshot" />
-        <item itemvalue="Application.Maximize" />
       </list>
     </recent_temporary>
   </component>
@@ -183,17 +182,21 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="388" y="91" key="#&lt;default&gt;/0.0.1440.900@0.0.1440.900" timestamp="1585898032143" />
+    <state x="320" y="98" key="#Plugins" timestamp="1587341494887">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1587341494887" />
     <state x="360" y="115" key="#Project_Structure" timestamp="1585253431111">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="1840" y="115" key="#Project_Structure/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1579629941574" />
     <state x="360" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1585253431111" />
-    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587262622012">
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587343349449">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1586073690862" />
     <state x="1949" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1585360712122" />
-    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1587262622012" />
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1587343349449" />
     <state x="1949" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.877/1440.0.1600.900@1440.0.1600.900" timestamp="1578808541041" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585677190683">
       <screen x="0" y="0" width="1440" height="900" />
@@ -212,12 +215,12 @@
     </state>
     <state x="388" y="91" key="#com.testng.testngexample/0.0.1440.900@0.0.1440.900" timestamp="1585898102339" />
     <state x="388" y="91" key="#com.testng/0.0.1440.900@0.0.1440.900" timestamp="1585898077103" />
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1587341443781">
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1587345252672">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="294" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1586076072343" />
     <state width="1558" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1586739862439" />
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587341443781" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587345252672" />
     <state width="1558" height="402" key="GridCell.Tab.0.bottom/0.23.1440.811/1440.0.1600.900@1440.0.1600.900" timestamp="1578843482289" />
     <state width="1558" height="294" key="GridCell.Tab.0.bottom/0.23.1440.811/1440.23.1600.877@1440.23.1600.877" timestamp="1579122202756" />
     <state width="1398" height="246" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1579031910969" />
@@ -242,12 +245,12 @@
     <state width="1398" height="252" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1600.823@1440.23.1600.823" timestamp="1579119810810" />
     <state width="1398" height="252" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1600.824@1440.23.1600.824" timestamp="1579119873750" />
     <state width="1398" height="274" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1600.877@1440.23.1600.877" timestamp="1579119644430" />
-    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1587341443780">
+    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1587345252666">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="294" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1586076072334" />
     <state width="1558" height="240" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1586739862437" />
-    <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587341443780" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587345252666" />
     <state width="1558" height="402" key="GridCell.Tab.0.center/0.23.1440.811/1440.0.1600.900@1440.0.1600.900" timestamp="1578843482287" />
     <state width="1558" height="294" key="GridCell.Tab.0.center/0.23.1440.811/1440.23.1600.877@1440.23.1600.877" timestamp="1579122202754" />
     <state width="1398" height="246" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1579031910968" />
@@ -272,12 +275,12 @@
     <state width="1398" height="252" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1600.823@1440.23.1600.823" timestamp="1579119810806" />
     <state width="1398" height="252" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1600.824@1440.23.1600.824" timestamp="1579119873749" />
     <state width="1398" height="274" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1600.877@1440.23.1600.877" timestamp="1579119644428" />
-    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1587341443778">
+    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1587345252664">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="294" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1586076072325" />
     <state width="1558" height="240" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1586739862436" />
-    <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587341443778" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587345252664" />
     <state width="1558" height="402" key="GridCell.Tab.0.left/0.23.1440.811/1440.0.1600.900@1440.0.1600.900" timestamp="1578843482286" />
     <state width="1558" height="294" key="GridCell.Tab.0.left/0.23.1440.811/1440.23.1600.877@1440.23.1600.877" timestamp="1579122202752" />
     <state width="1398" height="246" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1579031910968" />
@@ -302,12 +305,12 @@
     <state width="1398" height="252" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1600.823@1440.23.1600.823" timestamp="1579119810804" />
     <state width="1398" height="252" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1600.824@1440.23.1600.824" timestamp="1579119873748" />
     <state width="1398" height="274" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1600.877@1440.23.1600.877" timestamp="1579119644427" />
-    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1587341443780">
+    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1587345252669">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="294" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1586076072341" />
     <state width="1558" height="240" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1586739862438" />
-    <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587341443780" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587345252669" />
     <state width="1558" height="402" key="GridCell.Tab.0.right/0.23.1440.811/1440.0.1600.900@1440.0.1600.900" timestamp="1578843482288" />
     <state width="1558" height="294" key="GridCell.Tab.0.right/0.23.1440.811/1440.23.1600.877@1440.23.1600.877" timestamp="1579122202756" />
     <state width="1398" height="246" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1579031910969" />
